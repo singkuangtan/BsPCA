@@ -40,3 +40,12 @@ Uncomment either one above, but not both, to enable random generation of latent 
 
 ----------
 links to paper https://zenodo.org/records/23733976
+
+Cite my paper if you used my work or ideas
+
+—----------
+Links to other papers:
+https://github.com/singkuangtan/BS_PIDNET
+https://zenodo.org/records/19496155
+https://zenodo.org/records/19402689
+https://zenodo.org/records/23733976
